@@ -1,0 +1,8 @@
+C:\Users\rahim\Desktop\builder\bin\Debug\builder.exe.config
+C:\Users\rahim\Desktop\builder\bin\Debug\builder.exe
+C:\Users\rahim\Desktop\builder\bin\Debug\builder.pdb
+C:\Users\rahim\Desktop\builder\obj\Debug\builder.csproj.AssemblyReference.cache
+C:\Users\rahim\Desktop\builder\obj\Debug\builder.csproj.SuggestedBindingRedirects.cache
+C:\Users\rahim\Desktop\builder\obj\Debug\builder.csproj.CoreCompileInputs.cache
+C:\Users\rahim\Desktop\builder\obj\Debug\builder.exe
+C:\Users\rahim\Desktop\builder\obj\Debug\builder.pdb
